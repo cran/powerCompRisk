@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(MASS)
+import(mvtnorm)
+importFrom("stats", "pchisq", "qchisq", "qnorm", "uniroot")
