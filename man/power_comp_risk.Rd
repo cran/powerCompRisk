@@ -34,7 +34,7 @@ power.comp.risk(alpha, beta, lambda_11, RR, HR_1, HR_all, attrition, r, f, a1)
 A dataframe with variables \code{Chi2 Joint}, \code{Maximum Joint}, \code{Bonferroni} methods. The first entry is the required number of cause-1 failures and the second entry is the required total number of patients.
 }
 \references{
-Ying, Q., Fung, W.K., Li, G. (2017) Sample size determination for jointly testing a cause-specific hazard and the any-cause hazard in the presence of competing risks. UCLA Department of Biostatistics Technical Report.
+Yang, Q., Fung, W.K., Li, G. (2017) Sample size determination for jointly testing a cause-specific hazard and the any-cause hazard in the presence of competing risks. UCLA Department of Biostatistics Technical Report.
 }
 \author{
 Authors: Qing Yang,
